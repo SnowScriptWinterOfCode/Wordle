@@ -1,8 +1,7 @@
 # Wordle Clone
 
-<p align="center">
-  <img src= "https://user-images.githubusercontent.com/79600026/200430659-dd1aedf5-a58c-4103-8964-06e2033f7c7e.jpg" alt="6" width="350"/>
-</p>
+![image](https://github.com/SnowScriptWinterOfCode/Wordle/assets/97171261/cbe45715-651d-48a4-91ad-b96dff630d67)
+
 
 
 The app contains Wordle clone. Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer who has developed something of a reputation as a crafter of interesting social experiments.
@@ -45,7 +44,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 You can take up any of the existing issues or create a new one to contribute!<br/> 
-Contribution period ends: 26 January 2024
+Contribution period ends: 28 January 2024
 
 
 ## How to get started?
