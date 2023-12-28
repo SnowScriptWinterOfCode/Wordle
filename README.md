@@ -9,6 +9,9 @@ The app contains Wordle clone. Wordle is a daily word game created by Josh Wardl
 ## Maintainers 
 @Aarushi-29 and @Nitya-Pasrija
 
+## Reviwers
+@Aarushi-29
+
 Feel free to contact them if you feel stuck at any point, or wish to report someone.
 
 ## Tech Used
@@ -51,7 +54,7 @@ Contribution period ends: 28 January 2024
 
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.gg/xTNC4MGB) if you have any doubts.
 
-- [Learn how to contribute to GDSC IGDTUW Autumn of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
+- [Learn how to contribute to GDSC IGDTUW SnowScript of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
 - [Go through this repository to how to contribute and learn step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
