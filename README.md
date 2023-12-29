@@ -7,7 +7,7 @@
 The app contains Wordle clone. Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer who has developed something of a reputation as a crafter of interesting social experiments.
 
 ## Maintainers 
-@Aarushi-29 and @Nitya-Pasrija
+[@Aarushi-29](https://github.com/Aarushi-29) and [@Nitya-Pasrija](https://github.com/Nitya-Pasrija)
 
 ## Reviwers
 @Aarushi-29
