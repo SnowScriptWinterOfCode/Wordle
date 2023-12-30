@@ -62,22 +62,21 @@ You can refer to the following resources on Git and Github to get started and co
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
+# ☃️ Prizes
+Top 3 contributors ❄️
+Special prize | Bonanza Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
+Top 5 female contributors ❄️
+Special prize | Special Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-## Prizes 
-- Top 3 contributors <br/> 
-Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
-
-- Top 5 female contributors  <br/>
-Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
-
-- Top 10 contributors  <br/>
+Top 10 contributors ❄️
 Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Certificate of appreciation
 
-- Top 25 contributors  <br/>
+Top 25 contributors ❄️
 Swag kits and lots of exciting goodies | Certificate of appreciation
 
-- All the contributors will get a certificate of appreciation for their first successful pull request
+All the contributors will get a certificate of appreciation for their first successful pull request :)
 
-
-Join our [Discord](https://discord.gg/KKFUVma6) to stay in touch with project mentors and for any further questions. 
+# ☃️ For Contributors that identify as women
+Mention your pronouns in the profile to be eligible for the women only prizes.
+Join our Discord to stay in touch with project mentors and for any furthur questions.
